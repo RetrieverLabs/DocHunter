@@ -1,0 +1,7 @@
+pypdf 
+python-pptx 
+openpyxl 
+xlrd 
+beautifulsoup4 
+pytesseract 
+pillow
